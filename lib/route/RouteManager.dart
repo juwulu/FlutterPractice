@@ -55,8 +55,6 @@ class RouteManagerState extends State<RouteManagerHomePage>{
         )
     );
   }
-
-
 }
 
 class RouteManagerThirdPage extends StatelessWidget {
